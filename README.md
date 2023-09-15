@@ -1,19 +1,22 @@
-# app
+# ToDo-list
 
-## Project setup
+https://spektra135.github.io/ToDo-list/
+
+
+###  Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+####  Compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+####  Compiles and minifies for production
 ```
 yarn build
 ```
 
-### Customize configuration
+####  Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
